@@ -1,0 +1,19 @@
+# Ignorar directorios de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de compilación de TypeScript
+dist/
+*.js
+*.js.map
+
+# Ignorar archivos generados por IDEs y editores de texto
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignorar archivos de configuración de TypeScript
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Ignorar archivos de configuración de Jest
+jest.config.js
